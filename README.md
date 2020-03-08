@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-Tasked by the executive team of pharmacists to generate all of the tables and figures needed for the technical report of the study of a new set of drug regimens for potential treatments for squamous cell carcinoma (SCC), the following give insights into the figures and tables produced in this Jupyter notebook.
+Tasked by the executive team of pharmacists to generate all of the tables and figures needed for the technical report of the study of a new set of drug regimens for potential treatments for squamous cell carcinoma (SCC), the following give insights into the figures and tables produced with pyplot and pandas in this Jupyter notebook.
 
 Instructions
 Your tasks are to do the following:
